@@ -1350,8 +1350,6 @@ O importante é que seu readme não seja um arquivo sem propósito. Use ele para
 
 Esse [repositório](https://github.com/matiassingers/awesome-readme) tem alguns exemplos de arquivos de readme bem escritos.
 
-  ## Referências
-
 ## Fluxo de desenvolvimento
 
 1. Crie um novo branch no seu repositório local.
@@ -1388,5 +1386,6 @@ Orientações:
 
   ## Referências
 
-[Boas Práticas de programação - Node](https://github.com/pedrosoteroth/boas-praticas/blob/master/README.md#arquivo-readme)
-[Boas Práticas de Desenvolvimento](https://github.com/coopera/boas-praticas/blob/master/README.md)
+- [Boas Práticas de programação - Node](https://github.com/pedrosoteroth/boas-praticas/blob/master/README.md#arquivo-readme)
+
+- [Boas Práticas de Desenvolvimento](https://github.com/coopera/boas-praticas/blob/master/README.md)
