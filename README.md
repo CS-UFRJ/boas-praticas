@@ -14,12 +14,9 @@
   - [Codigo Morto](#código-morto)
   - [Definiçao de classes e ES6](#definição-de-classes-e-es6)
   - [Arquivo Readme](#arquivo-readme)
-  - [Estrutura de diretórios](#estrutura-de-diretorios)
-  - [Scripts NPM](#scripts-npm)
-- [Fluxo de desenvolvimento](#fluxo)
-  - [Fluxo de desenvolvimento](#fluxo-desenvolvimento)
-  - [Controle de versão](#versao)
-- [Referências](#referencias)
+- [Fluxo de desenvolvimento](#fluxo-de-desenvolviemnto)
+- [Controle de versão](#controle-de-versão)
+- [Referências](#referências)
 
   ## Introdução
 
@@ -1350,7 +1347,7 @@ O importante é que seu readme não seja um arquivo sem propósito. Use ele para
 
 Esse [repositório](https://github.com/matiassingers/awesome-readme) tem alguns exemplos de arquivos de readme bem escritos.
 
-## Fluxo de desenvolvimento
+  ## Fluxo de desenvolvimento
 
 1. Crie um novo branch no seu repositório local.
 2. Implemente suas mudanças
@@ -1373,7 +1370,7 @@ Orientações:
   - Responda os questionamentos dos revisores.
   - Caso algum revisor tenha solicitado algo e você não consiga entender a solicitação, não hesite em questioná-lo.
 
-## Controle de versão
+  ## Controle de versão
 - Mensagens de commit devem ser curtas e objetivas. Exemplos:
   - "Fix bug at user controller"
   - "Add sign in feature"
